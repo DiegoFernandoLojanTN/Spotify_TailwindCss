@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# Spotify Clon
+Este proyecto es un clon de Spotify en el que se utiliza Tailwind CSS para el diseño de la interfaz, Vite como herramienta de construcción rápida y Vue.js para la lógica del frontend.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Estado del Proyecto
+Este proyecto aún está en desarrollo y no está completo.
 
-## Recommended IDE Setup
+## Imagenes Referencia
+[![imagen-2024-03-06-163208776.png](https://i.postimg.cc/4NQHMzr1/imagen-2024-03-06-163208776.png)](https://postimg.cc/vcDmx681)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[![imagen-2024-03-06-163308272.png](https://i.postimg.cc/Rh9VQYVx/imagen-2024-03-06-163308272.png)](https://postimg.cc/XGHbnQCs)
+
+[![imagen-2024-03-06-163355599.png](https://i.postimg.cc/ZYcTzV50/imagen-2024-03-06-163355599.png)](https://postimg.cc/t7s0hdPH)
